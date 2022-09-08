@@ -1,5 +1,5 @@
 # Healthy_Reminder
-It's a reminder app which helps us to be fit and fine , by doing drinking water ,eyes relax  and exercising .And these data's are stored inside the file to track the record.
+It's a reminder app which helps us to be fit and fine with music, by doing drinking water ,eyes relax  and exercising .And these data's are stored inside the file to track the record.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/89354259/189180998-f3e08733-7148-4c76-847e-4c49616e5cba.png)
